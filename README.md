@@ -1,4 +1,4 @@
-The purpose of this set of examples is to learn both Vector Analysis and SymPy. As starting skills you need basic knowledge of Jupyter, Python, SymPy and Matplotlib.
+The purpose of this set of examples is to learn both **Vector Analysis** and **SymPy**. As starting skills you need basic knowledge of Jupyter, Python, SymPy and Matplotlib.
 *  An excellent resources of theory, examples and practice problems:
 *  Paul Dawkins: https://tutorial.math.lamar.edu/
 *  Youtube Mr.P Solver: '2nd Year Calculus, But in PYTHON'

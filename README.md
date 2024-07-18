@@ -7,8 +7,7 @@ An excellent resources of theory, examples and practice problems:
 
 The problems come from the resources above and from the book 'Theory and problems of Vector Analysis', Schaum's: 1959.
 
-VecAnal_1.ipynb: 
-VECTOR  BASICS
+*VecAnal_1.ipynb*: **VECTOR  BASICS**
  1. Angle between two vectors
  2. Perpendicularity
  3. Projection of a vector $\vec{A}$ on the vector $\vec{B}$

@@ -7,7 +7,9 @@ An excellent resources of theory, examples and practice problems:
 
 The problems come from the resources above and from the book 'Theory and problems of Vector Analysis', Schaum's: 1959.
 
-*VecAnal_1.ipynb*: **VECTOR  BASICS**
+ **Vector  Basics** 
+ 
+ *VecAnal_1.ipynb*:
  1. Angle between two vectors
  2. Perpendicularity
  3. Projection of a vector $\vec{A}$ on the vector $\vec{B}$
@@ -18,19 +20,13 @@ The problems come from the resources above and from the book 'Theory and problem
  8. Work done in moving an object along a vector by a force
  9. Rotating body, angular and linear velocity
 10. Moment of a force
-11. 
+
 **2. Parametric curve**
 
-VecAnal_2a.  Unit tangent of the curve 
-
-VecAnal_2b.  Tangent, principal normal, binormal, curvature and torsion. 
-
-VecAnal_2c.  TNB-FUNKTIO: Tangent, Normal, Binormal, Curvature, Radius of curvature, Torsion
-
-VecAnal_2d.  MECHANICS: Tangential and normal components of acceleration
-
-VecAnal_2e.  Parametric curve (trigonometric)
-
-VecAnal_2f.  Unit tangent vector, unit normal vector, curvature, (matrix representation)
-
-VecAnal_2g.  The angle between the velocity and acceleration
+*  VecAnal_2a.  Unit tangent of the curve 
+*  VecAnal_2b.  Tangent, principal normal, binormal, curvature and torsion. 
+*  VecAnal_2c.   TNB-FUNKTIO: Tangent, Normal, Binormal, Curvature, Radius of curvature, Torsion
+*  VecAnal_2d.  MECHANICS: Tangential and normal components of acceleration
+*  VecAnal_2e.  Parametric curve (trigonometric)
+*  VecAnal_2f.  Unit tangent vector, unit normal vector, curvature, (matrix representation)
+*  VecAnal_2g.  The angle between the velocity and acceleration

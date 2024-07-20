@@ -7,6 +7,8 @@ An excellent resources of theory, examples and practice problems:
 
 The problems come from the resources above and from the book 'Theory and problems of Vector Analysis', Schaum's: 1959.
 
+You can find more vector analysis problems solved with Python in my other repository **Hese49/CALCULUS-III-Lamar**
+
  **1. Vector  Basics** 
  *VecAnal_1.ipynb*:
  1. Angle between two vectors
